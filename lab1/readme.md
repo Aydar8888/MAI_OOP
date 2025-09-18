@@ -98,7 +98,7 @@ cmake --build .
 
 ```bash
 # Из директории build
-./gtest_exe
+./lab1_exe
 ```
 
 ### Запуск тестов
